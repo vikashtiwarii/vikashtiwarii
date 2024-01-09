@@ -17,7 +17,7 @@
 </h2>
 Hi,
 My name is Vikash Tiwari.
-I love creating beautiful and dynamic websites. Checkout my portfolio: 
+I love creating beautiful and dynamic websites.
   
 </div>
 
